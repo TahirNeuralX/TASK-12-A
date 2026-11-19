@@ -1,0 +1,2 @@
+# TASK-12-A
+POINTERS
